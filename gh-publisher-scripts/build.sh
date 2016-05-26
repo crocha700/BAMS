@@ -13,4 +13,4 @@ echo "$PWD"
 
 cd "$GH_PUBLISHER_PROJECT_DIR"
 cd writeup; make; cd ..
-cp writeup/rocha_etal.pdf ./
+cp writeup/pyqg_bams.pdf ./
